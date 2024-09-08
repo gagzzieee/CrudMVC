@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Smart data\\MVC\\StudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30D680C1-C22B-4311-85C3-21D9071A7199}|StudentManagement\\StudentManagement.csproj|e:\\smart data\\mvc\\studentmanagement\\studentmanagement\\views\\studentcontroller1\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30D680C1-C22B-4311-85C3-21D9071A7199}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\studentcontroller1\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D680C1-C22B-4311-85C3-21D9071A7199}|StudentManagement\\StudentManagement.csproj|e:\\smart data\\mvc\\studentmanagement\\studentmanagement\\views\\studentcontroller1\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30D680C1-C22B-4311-85C3-21D9071A7199}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\studentcontroller1\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D680C1-C22B-4311-85C3-21D9071A7199}|StudentManagement\\StudentManagement.csproj|e:\\smart data\\mvc\\studentmanagement\\studentmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30D680C1-C22B-4311-85C3-21D9071A7199}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D680C1-C22B-4311-85C3-21D9071A7199}|StudentManagement\\StudentManagement.csproj|e:\\smart data\\mvc\\studentmanagement\\studentmanagement\\controllers\\studentcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D680C1-C22B-4311-85C3-21D9071A7199}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\studentcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D680C1-C22B-4311-85C3-21D9071A7199}|StudentManagement\\StudentManagement.csproj|e:\\smart data\\mvc\\studentmanagement\\studentmanagement\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D680C1-C22B-4311-85C3-21D9071A7199}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D680C1-C22B-4311-85C3-21D9071A7199}|StudentManagement\\StudentManagement.csproj|e:\\smart data\\mvc\\studentmanagement\\studentmanagement\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D680C1-C22B-4311-85C3-21D9071A7199}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D680C1-C22B-4311-85C3-21D9071A7199}|StudentManagement\\StudentManagement.csproj|e:\\smart data\\mvc\\studentmanagement\\studentmanagement\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D680C1-C22B-4311-85C3-21D9071A7199}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D680C1-C22B-4311-85C3-21D9071A7199}|StudentManagement\\StudentManagement.csproj|e:\\smart data\\mvc\\studentmanagement\\studentmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D680C1-C22B-4311-85C3-21D9071A7199}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Smart data\\MVC\\StudentManagement\\StudentManagement\\Migrations\\20240908143447_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentManagement\\Migrations\\20240908143447_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D680C1-C22B-4311-85C3-21D9071A7199}|StudentManagement\\StudentManagement.csproj|e:\\smart data\\mvc\\studentmanagement\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D680C1-C22B-4311-85C3-21D9071A7199}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D680C1-C22B-4311-85C3-21D9071A7199}|StudentManagement\\StudentManagement.csproj|e:\\smart data\\mvc\\studentmanagement\\studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30D680C1-C22B-4311-85C3-21D9071A7199}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D680C1-C22B-4311-85C3-21D9071A7199}|StudentManagement\\StudentManagement.csproj|e:\\smart data\\mvc\\studentmanagement\\studentmanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D680C1-C22B-4311-85C3-21D9071A7199}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D680C1-C22B-4311-85C3-21D9071A7199}|StudentManagement\\StudentManagement.csproj|e:\\smart data\\mvc\\studentmanagement\\studentmanagement\\studentmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30D680C1-C22B-4311-85C3-21D9071A7199}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Smart data\\MVC\\StudentManagement\\StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Smart data\\MVC\\StudentManagement\\StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T15:41:35.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "E:\\Smart data\\MVC\\StudentManagement\\StudentManagement\\Views\\StudentController1\\List.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\StudentController1\\List.cshtml",
+              "ToolTip": "E:\\Smart data\\MVC\\StudentManagement\\StudentManagement\\Views\\StudentController1\\List.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\StudentController1\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T15:32:35.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "E:\\Smart data\\MVC\\StudentManagement\\StudentManagement\\Views\\StudentController1\\Add.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\StudentController1\\Add.cshtml",
+              "ToolTip": "E:\\Smart data\\MVC\\StudentManagement\\StudentManagement\\Views\\StudentController1\\Add.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\StudentController1\\Add.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T14:39:19.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Smart data\\MVC\\StudentManagement\\StudentManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagement\\appsettings.json",
+              "ToolTip": "E:\\Smart data\\MVC\\StudentManagement\\StudentManagement\\appsettings.json",
+              "RelativeToolTip": "StudentManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-08T14:23:08.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Smart data\\MVC\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Program.cs",
+              "ToolTip": "E:\\Smart data\\MVC\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeToolTip": "StudentManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:21:35.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Smart data\\MVC\\StudentManagement\\StudentManagement\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\Entities\\Student.cs",
+              "ToolTip": "E:\\Smart data\\MVC\\StudentManagement\\StudentManagement\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:13:25.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\Smart data\\MVC\\StudentManagement\\StudentManagement\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\Smart data\\MVC\\StudentManagement\\StudentManagement\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:05:14.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController1.cs",
+              "DocumentMoniker": "E:\\Smart data\\MVC\\StudentManagement\\StudentManagement\\Controllers\\StudentController1.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\StudentController1.cs",
+              "ToolTip": "E:\\Smart data\\MVC\\StudentManagement\\StudentManagement\\Controllers\\StudentController1.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\StudentController1.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwCsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:37:47.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddStudentViewModel.cs",
+              "DocumentMoniker": "E:\\Smart data\\MVC\\StudentManagement\\StudentManagement\\Models\\AddStudentViewModel.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\AddStudentViewModel.cs",
+              "ToolTip": "E:\\Smart data\\MVC\\StudentManagement\\StudentManagement\\Models\\AddStudentViewModel.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\AddStudentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:56:52.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240908143447_initial-migration.cs",
+              "DocumentMoniker": "E:\\Smart data\\MVC\\StudentManagement\\StudentManagement\\Migrations\\20240908143447_initial-migration.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Migrations\\20240908143447_initial-migration.cs",
+              "ToolTip": "E:\\Smart data\\MVC\\StudentManagement\\StudentManagement\\Migrations\\20240908143447_initial-migration.cs",
+              "RelativeToolTip": "StudentManagement\\Migrations\\20240908143447_initial-migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:34:47.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Smart data\\MVC\\StudentManagement\\StudentManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Smart data\\MVC\\StudentManagement\\StudentManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:44:52.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Smart data\\MVC\\StudentManagement\\StudentManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Smart data\\MVC\\StudentManagement\\StudentManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StudentManagement\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:10:42.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentManagement.csproj",
+              "DocumentMoniker": "E:\\Smart data\\MVC\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.csproj",
+              "ToolTip": "E:\\Smart data\\MVC\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-08T14:08:06.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
